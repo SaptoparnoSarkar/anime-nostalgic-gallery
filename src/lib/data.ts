@@ -1,7 +1,7 @@
 import { StaticImageData } from "next/image";
-import attackOnTitan1 from 'public/assets/aot-1.gif'
-import attackOnTitan2 from 'public/assets/aot-2.gif'
-import attackOnTitan3 from "public/assets/aot-3.gif"
+import attackOnTitan1 from '@assets/aot-1.gif'
+import attackOnTitan2 from '@assets/aot-2.gif'
+import attackOnTitan3 from "@assets/aot-3.gif"
 import jujutsuKaisen1 from "@assets/jjk-4.gif"
 import jujutsuKaisen2 from "@assets/jjk-2.gif"
 import jujutsuKaisen3 from "@assets/jjk-3.gif"
