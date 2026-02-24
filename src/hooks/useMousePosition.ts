@@ -1,4 +1,5 @@
-import { MousePosition } from "@/lib/types";
+
+import { MousePosition } from "@/types";
 import { useEffect, useState } from "react";
 
 

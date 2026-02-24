@@ -20,7 +20,7 @@ export default function Home() {
   useMobileWarning();
 
   return (
-    <div className=" relative flex w-screen flex-col top-10 items-center justify-center no-scrollbar">
+    <div className=" relative flex w-screen flex-col top-10 items-center justify-center">
       <Toaster />
       <div className="flex flex-col items-center justify-center gap-5 *:cursor-default">
         {ANIME_TITLE.map((title) => (
