@@ -27,7 +27,7 @@ export const data: Record<string, { scenes: AnimeSceneEntry[]; audio: string }> 
     scenes: [
       {
         src: attackOnTitan1,
-        offsetX: -420,
+        offsetX: -520,
         offsetY: -110,
         rotate: -12,
       },
@@ -39,7 +39,7 @@ export const data: Record<string, { scenes: AnimeSceneEntry[]; audio: string }> 
       },
       {
         src: attackOnTitan3,
-        offsetX: 400,
+        offsetX: 500,
         offsetY: 80,
         rotate: -6,
       },
@@ -62,7 +62,7 @@ export const data: Record<string, { scenes: AnimeSceneEntry[]; audio: string }> 
       },
       {
         src: jujutsuKaisen3,
-        offsetX: 470,
+        offsetX: 520,
         offsetY: 10,
         rotate: 1,
       },
@@ -73,7 +73,7 @@ export const data: Record<string, { scenes: AnimeSceneEntry[]; audio: string }> 
     scenes: [
       {
         src: chainsawMan1,
-        offsetX: -430,
+        offsetX: -530,
         offsetY: 120,
         rotate: 6,
       },
@@ -96,14 +96,14 @@ export const data: Record<string, { scenes: AnimeSceneEntry[]; audio: string }> 
     scenes: [
       {
         src: demonSlayer1,
-        offsetX: -530,
-        offsetY: 90,
+        offsetX: 30,
+        offsetY: -150,
         rotate: -4,
       },
       {
         src: demonSlayer2,
-        offsetX: 30,
-        offsetY: -150,
+        offsetX: -530,
+        offsetY: 90,
         rotate: 6,
       },
       {
